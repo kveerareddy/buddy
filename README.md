@@ -1,0 +1,2 @@
+# buddy
+Social organization
